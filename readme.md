@@ -11,3 +11,8 @@ Make sure you have node.js installed.
 
 
 I would like that to start automatically but I'm still learning.
+
+
+### Rules
+
+A basic clone of wordle, you have six chances to guess the correct word and depending on the word you entered it’ll tell you whether you have the correct letters in the right spaces, correct letters in wrong spaces, or just wrong letters. It sends each entered word to an API to check if it is a legitimate english word and if not it will not let you enter said word and uses a node model to generate random english words.

@@ -5,9 +5,9 @@ While I did mostly follow a tutorial to make this there is my own code in there.
 ### To use
 Make sure you have node.js installed.
 
-1 open new terminal and type in npm run start:backend.
+1. Open new terminal and type in ``npm run start:backend``.
 
-2 then open index.html and should work from there.
+2. Open index.html and should work from there.
 
 
 I would like that to start automatically but I'm still learning.

@@ -9,7 +9,7 @@ Make sure you have node.js installed.
 
 2. Run ``npm run start:backend``.
 
-2. Open index.html and should work from there.
+2. Open index.html.
 
 ### Rules
 
